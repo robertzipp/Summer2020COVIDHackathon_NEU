@@ -1,0 +1,4999 @@
+[
+  {
+    "created_at": "Thu Jul 30 21:04:27 +0000 2020",
+    "id": 1288943564257480704,
+    "id_str": "1288943564257480704",
+    "text": "RT @campossuarez: Confirmado. @SChecoPerez dio positivo a #Covid-19 M\u00e1s all\u00e1 de que se pierde de correr en Silverstone, hay que estar pendi\u2026",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1277032814437969921,
+      "id_str": "1277032814437969921",
+      "name": "Sergio Ju\u00e1rez Cruz",
+      "screen_name": "SergioJurezCru2",
+      "location": null,
+      "url": null,
+      "description": null,
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 55,
+      "friends_count": 167,
+      "listed_count": 0,
+      "favourites_count": 5123,
+      "statuses_count": 2533,
+      "created_at": "Sun Jun 28 00:15:42 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1277033022294982656/CihqEhmZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1277033022294982656/CihqEhmZ_normal.jpg",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 30 19:23:53 +0000 2020",
+      "id": 1288918253562212352,
+      "id_str": "1288918253562212352",
+      "text": "Confirmado. @SChecoPerez dio positivo a #Covid-19 M\u00e1s all\u00e1 de que se pierde de correr en Silverstone, hay que estar\u2026 https://t.co/LViqkdC3bt",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 36751171,
+        "id_str": "36751171",
+        "name": "Enrique Campos S",
+        "screen_name": "campossuarez",
+        "location": null,
+        "url": "http://noticieros.televisa.com",
+        "description": "Periodista,  pap\u00e1, me encanta la F\u00f3rmula Uno, orgulloso universitario, analista econ\u00f3mico. Televisa, El Economista y 24 Horas.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": true,
+        "followers_count": 73070,
+        "friends_count": 602,
+        "listed_count": 652,
+        "favourites_count": 27,
+        "statuses_count": 13323,
+        "created_at": "Thu Apr 30 19:41:23 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1020382007854084097/LNYNE3cS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020382007854084097/LNYNE3cS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/36751171/1395344959",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "Confirmado. @SChecoPerez dio positivo a #Covid-19 M\u00e1s all\u00e1 de que se pierde de correr en Silverstone, hay que estar pendientes de su salud. https://t.co/cUasGPO4SK",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Covid",
+              "indices": [
+                40,
+                46
+              ]
+            }
+          ],
+          "urls": [],
+          "user_mentions": [
+            {
+              "screen_name": "SChecoPerez",
+              "name": "Sergio P\u00e9rez",
+              "id": 78502161,
+              "id_str": "78502161",
+              "indices": [
+                12,
+                24
+              ]
+            }
+          ],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1288918249804050432,
+              "id_str": "1288918249804050432",
+              "indices": [
+                140,
+                163
+              ],
+              "media_url": "http://pbs.twimg.com/media/EeMoUbgWsAA16wg.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EeMoUbgWsAA16wg.jpg",
+              "url": "https://t.co/cUasGPO4SK",
+              "display_url": "pic.twitter.com/cUasGPO4SK",
+              "expanded_url": "https://twitter.com/campossuarez/status/1288918253562212352/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 671,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 380,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1200,
+                  "h": 671,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1288918249804050432,
+              "id_str": "1288918249804050432",
+              "indices": [
+                140,
+                163
+              ],
+              "media_url": "http://pbs.twimg.com/media/EeMoUbgWsAA16wg.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EeMoUbgWsAA16wg.jpg",
+              "url": "https://t.co/cUasGPO4SK",
+              "display_url": "pic.twitter.com/cUasGPO4SK",
+              "expanded_url": "https://twitter.com/campossuarez/status/1288918253562212352/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 671,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 380,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1200,
+                  "h": 671,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6,
+      "favorite_count": 13,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Covid",
+            "indices": [
+              40,
+              46
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/LViqkdC3bt",
+            "expanded_url": "https://twitter.com/i/web/status/1288918253562212352",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "SChecoPerez",
+            "name": "Sergio P\u00e9rez",
+            "id": 78502161,
+            "id_str": "78502161",
+            "indices": [
+              12,
+              24
+            ]
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "es"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Covid",
+          "indices": [
+            58,
+            64
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "campossuarez",
+          "name": "Enrique Campos S",
+          "id": 36751171,
+          "id_str": "36751171",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "SChecoPerez",
+          "name": "Sergio P\u00e9rez",
+          "id": 78502161,
+          "id_str": "78502161",
+          "indices": [
+            30,
+            42
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1596143067789"
+  },
+  {
+    "created_at": "Thu Jul 30 21:05:36 +0000 2020",
+    "id": 1288943851982462976,
+    "id_str": "1288943851982462976",
+    "text": "Los sabores buenos convinan a la perfecci\u00f3n #consumelonuestro #coffeetime #coffeepeople #caferacer #Cafesano\u2026 https://t.co/9GTlryMykC",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1032454258589872128,
+      "id_str": "1032454258589872128",
+      "name": "Caf\u00e9 de la Pampa",
+      "screen_name": "CafedelaPampa",
+      "location": "Loja, Ecuador",
+      "url": null,
+      "description": "Caf\u00e9 de la Pampa, es un producto elaborado en Loja, Ecuador. La materia prima es un grano producido a m\u00e1s 1680 msnm, sano y cuidado org\u00e1nicamente.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 56,
+      "friends_count": 366,
+      "listed_count": 0,
+      "favourites_count": 152,
+      "statuses_count": 223,
+      "created_at": "Thu Aug 23 02:27:32 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1244324891437957120/pOODfq-N_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244324891437957120/pOODfq-N_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1032454258589872128/1567257718",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "Los sabores buenos convinan a la perfecci\u00f3n #consumelonuestro #coffeetime #coffeepeople #caferacer #Cafesano #lojanos #GYE #UIO #cuenca #ca\u00f1ar #USA #japanese #europa #Japan #quedateencasa #ecuatorianoesmejor #Caf\u00e9 #cat\u00f3licos #saborlojano #Dios #compartir\u2026 https://t.co/9YhuluHl2f https://t.co/X2cFLk7HVc",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "consumelonuestro",
+            "indices": [
+              44,
+              61
+            ]
+          },
+          {
+            "text": "coffeetime",
+            "indices": [
+              62,
+              73
+            ]
+          },
+          {
+            "text": "coffeepeople",
+            "indices": [
+              74,
+              87
+            ]
+          },
+          {
+            "text": "caferacer",
+            "indices": [
+              88,
+              98
+            ]
+          },
+          {
+            "text": "Cafesano",
+            "indices": [
+              99,
+              108
+            ]
+          },
+          {
+            "text": "lojanos",
+            "indices": [
+              109,
+              117
+            ]
+          },
+          {
+            "text": "GYE",
+            "indices": [
+              118,
+              122
+            ]
+          },
+          {
+            "text": "UIO",
+            "indices": [
+              123,
+              127
+            ]
+          },
+          {
+            "text": "cuenca",
+            "indices": [
+              128,
+              135
+            ]
+          },
+          {
+            "text": "ca\u00f1ar",
+            "indices": [
+              136,
+              142
+            ]
+          },
+          {
+            "text": "USA",
+            "indices": [
+              143,
+              147
+            ]
+          },
+          {
+            "text": "japanese",
+            "indices": [
+              148,
+              157
+            ]
+          },
+          {
+            "text": "europa",
+            "indices": [
+              158,
+              165
+            ]
+          },
+          {
+            "text": "Japan",
+            "indices": [
+              166,
+              172
+            ]
+          },
+          {
+            "text": "quedateencasa",
+            "indices": [
+              173,
+              187
+            ]
+          },
+          {
+            "text": "ecuatorianoesmejor",
+            "indices": [
+              188,
+              207
+            ]
+          },
+          {
+            "text": "Caf\u00e9",
+            "indices": [
+              208,
+              213
+            ]
+          },
+          {
+            "text": "cat\u00f3licos",
+            "indices": [
+              214,
+              224
+            ]
+          },
+          {
+            "text": "saborlojano",
+            "indices": [
+              225,
+              237
+            ]
+          },
+          {
+            "text": "Dios",
+            "indices": [
+              238,
+              243
+            ]
+          },
+          {
+            "text": "compartir",
+            "indices": [
+              244,
+              254
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/9YhuluHl2f",
+            "expanded_url": "https://www.instagram.com/p/CCe3NUkpOX3/?igshid=1443s7txaa8t8",
+            "display_url": "instagram.com/p/CCe3NUkpOX3/\u2026",
+            "indices": [
+              256,
+              279
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1288943849080004610,
+            "id_str": "1288943849080004610",
+            "indices": [
+              280,
+              303
+            ],
+            "media_url": "http://pbs.twimg.com/media/EeM_mgPWoAIJmtu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EeM_mgPWoAIJmtu.jpg",
+            "url": "https://t.co/X2cFLk7HVc",
+            "display_url": "pic.twitter.com/X2cFLk7HVc",
+            "expanded_url": "https://twitter.com/CafedelaPampa/status/1288943851982462976/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1053,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1458,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 597,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1288943849080004610,
+            "id_str": "1288943849080004610",
+            "indices": [
+              280,
+              303
+            ],
+            "media_url": "http://pbs.twimg.com/media/EeM_mgPWoAIJmtu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EeM_mgPWoAIJmtu.jpg",
+            "url": "https://t.co/X2cFLk7HVc",
+            "display_url": "pic.twitter.com/X2cFLk7HVc",
+            "expanded_url": "https://twitter.com/CafedelaPampa/status/1288943851982462976/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1053,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1458,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 597,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "consumelonuestro",
+          "indices": [
+            44,
+            61
+          ]
+        },
+        {
+          "text": "coffeetime",
+          "indices": [
+            62,
+            73
+          ]
+        },
+        {
+          "text": "coffeepeople",
+          "indices": [
+            74,
+            87
+          ]
+        },
+        {
+          "text": "caferacer",
+          "indices": [
+            88,
+            98
+          ]
+        },
+        {
+          "text": "Cafesano",
+          "indices": [
+            99,
+            108
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9GTlryMykC",
+          "expanded_url": "https://twitter.com/i/web/status/1288943851982462976",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1596143136388"
+  },
+  {
+    "created_at": "Thu Jul 30 21:05:43 +0000 2020",
+    "id": 1288943880193191936,
+    "id_str": "1288943880193191936",
+    "text": "RT @GobiernoMorelos: Informaci\u00f3n importante sobre la situaci\u00f3n del COVID-19 en Morelos al d\u00eda jueves 30 de julio de 2020. \nGracias por acom\u2026",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 158884149,
+      "id_str": "158884149",
+      "name": "CES Morelos",
+      "screen_name": "CES_Morelos",
+      "location": "Morelos",
+      "url": null,
+      "description": "Comisi\u00f3n Estatal de Seguridad P\u00fablica",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 14322,
+      "friends_count": 592,
+      "listed_count": 111,
+      "favourites_count": 2723,
+      "statuses_count": 33594,
+      "created_at": "Wed Jun 23 22:40:10 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": true,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1280548554558197766/5IJg3sfl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1280548554558197766/5IJg3sfl_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/158884149/1594658020",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 30 21:01:52 +0000 2020",
+      "id": 1288942912110243841,
+      "id_str": "1288942912110243841",
+      "text": "Informaci\u00f3n importante sobre la situaci\u00f3n del COVID-19 en Morelos al d\u00eda jueves 30 de julio de 2020. \nGracias por a\u2026 https://t.co/yJpAURrENs",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 137801914,
+        "id_str": "137801914",
+        "name": "Gobierno de Morelos",
+        "screen_name": "GobiernoMorelos",
+        "location": "Morelos",
+        "url": "http://www.facebook.com/GobiernoEstadodeMorelos",
+        "description": "Cuenta Oficial del Gobierno del Estado de Morelos, 2018-2024",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 131789,
+        "friends_count": 173,
+        "listed_count": 358,
+        "favourites_count": 533,
+        "statuses_count": 206499,
+        "created_at": "Tue Apr 27 20:22:00 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FAFAFA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1279469201346965505/1xXsZD_C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1279469201346965505/1xXsZD_C_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/137801914/1594044644",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "Informaci\u00f3n importante sobre la situaci\u00f3n del COVID-19 en Morelos al d\u00eda jueves 30 de julio de 2020. \nGracias por acompa\u00f1arnos. \n#COVID-19 \n#SanaDistancia \n#Est\u00e1EnNuestrasManos \n#Qu\u00e9dateEnCasa \nhttps://t.co/cfxbXun2Fs",
+        "display_text_range": [
+          0,
+          217
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "COVID",
+              "indices": [
+                129,
+                135
+              ]
+            },
+            {
+              "text": "SanaDistancia",
+              "indices": [
+                140,
+                154
+              ]
+            },
+            {
+              "text": "Est\u00e1EnNuestrasManos",
+              "indices": [
+                156,
+                176
+              ]
+            },
+            {
+              "text": "Qu\u00e9dateEnCasa",
+              "indices": [
+                178,
+                192
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/cfxbXun2Fs",
+              "expanded_url": "https://www.facebook.com/GobiernoEstadodeMorelos/videos/208876550545058/",
+              "display_url": "facebook.com/GobiernoEstado\u2026",
+              "indices": [
+                194,
+                217
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        }
+      },
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 11,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/yJpAURrENs",
+            "expanded_url": "https://twitter.com/i/web/status/1288942912110243841",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "es"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "GobiernoMorelos",
+          "name": "Gobierno de Morelos",
+          "id": 137801914,
+          "id_str": "137801914",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1596143143114"
+  },
+  {
+    "created_at": "Thu Jul 30 21:05:44 +0000 2020",
+    "id": 1288943885876637696,
+    "id_str": "1288943885876637696",
+    "text": "RT @afridijalil: Dear Readers and Friends: Please Drive Safe. Driving related accidents claim one life every 25 seconds. #drivesafe #Pakist\u2026",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 69982477,
+      "id_str": "69982477",
+      "name": "Awab",
+      "screen_name": "ChaudhryAwab",
+      "location": "Karachi  ||  Pakistan",
+      "url": null,
+      "description": "Bs. Accounting & Finance,Entrepreneur,Irrational optimist",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 240,
+      "friends_count": 617,
+      "listed_count": 24,
+      "favourites_count": 23679,
+      "statuses_count": 26605,
+      "created_at": "Sat Aug 29 22:44:10 +0000 2009",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_link_color": "D02B55",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1214977874979180546/eaxT7L1D_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214977874979180546/eaxT7L1D_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/69982477/1451123475",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jul 27 22:23:47 +0000 2020",
+      "id": 1287876365421883400,
+      "id_str": "1287876365421883400",
+      "text": "Dear Readers and Friends: Please Drive Safe. Driving related accidents claim one life every 25 seconds. #drivesafe\u2026 https://t.co/cYjZgB6BrJ",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 465491972,
+        "id_str": "465491972",
+        "name": "Jalil Afridi",
+        "screen_name": "afridijalil",
+        "location": "Washington, DC",
+        "url": "http://www.thefrontierpost.com",
+        "description": "Managing Editor The Frontier Post",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3536,
+        "friends_count": 226,
+        "listed_count": 1,
+        "favourites_count": 126,
+        "statuses_count": 4921,
+        "created_at": "Mon Jan 16 12:11:58 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1281604233587032064/17LfjhF1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281604233587032064/17LfjhF1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/465491972/1593147746",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "Dear Readers and Friends: Please Drive Safe. Driving related accidents claim one life every 25 seconds. #drivesafe #Pakistan #USA https://t.co/Ttkon3cJE0 https://t.co/CPv2eaQvQ1",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "drivesafe",
+              "indices": [
+                104,
+                114
+              ]
+            },
+            {
+              "text": "Pakistan",
+              "indices": [
+                115,
+                124
+              ]
+            },
+            {
+              "text": "USA",
+              "indices": [
+                125,
+                129
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Ttkon3cJE0",
+              "expanded_url": "http://www.thefrontierpost.com",
+              "display_url": "thefrontierpost.com",
+              "indices": [
+                130,
+                153
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1268709663530520576,
+              "id_str": "1268709663530520576",
+              "indices": [
+                154,
+                177
+              ],
+              "media_url": "http://pbs.twimg.com/media/EZtct5HXkAAwgvf.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EZtct5HXkAAwgvf.jpg",
+              "url": "https://t.co/CPv2eaQvQ1",
+              "display_url": "pic.twitter.com/CPv2eaQvQ1",
+              "expanded_url": "https://twitter.com/afridijalil/status/1287876365421883400/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1000,
+                  "h": 654,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1000,
+                  "h": 654,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 445,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1268709663530520576,
+              "id_str": "1268709663530520576",
+              "indices": [
+                154,
+                177
+              ],
+              "media_url": "http://pbs.twimg.com/media/EZtct5HXkAAwgvf.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EZtct5HXkAAwgvf.jpg",
+              "url": "https://t.co/CPv2eaQvQ1",
+              "display_url": "pic.twitter.com/CPv2eaQvQ1",
+              "expanded_url": "https://twitter.com/afridijalil/status/1287876365421883400/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1000,
+                  "h": 654,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1000,
+                  "h": 654,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 445,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 1,
+      "reply_count": 3,
+      "retweet_count": 25,
+      "favorite_count": 172,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "drivesafe",
+            "indices": [
+              104,
+              114
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/cYjZgB6BrJ",
+            "expanded_url": "https://twitter.com/i/web/status/1287876365421883400",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "scopes": {
+        "followers": false
+      },
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "drivesafe",
+          "indices": [
+            121,
+            131
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "afridijalil",
+          "name": "Jalil Afridi",
+          "id": 465491972,
+          "id_str": "465491972",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1596143144469"
+  },
+  {
+    "created_at": "Thu Jul 30 21:05:45 +0000 2020",
+    "id": 1288943888816799750,
+    "id_str": "1288943888816799750",
+    "text": "RT @WarHorizon: #BigBreaking #USA #Vaccine #Trump\n\nOnce the Vaccine is ready the US Army will roll it out and distribute it and administer\u2026",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 725625776222162944,
+      "id_str": "725625776222162944",
+      "name": "Anjali Tushir \ud83c\uddee\ud83c\uddf3",
+      "screen_name": "Anjali__Tushir",
+      "location": "New Delhi, India",
+      "url": null,
+      "description": "National & International Boxer\ud83e\udd47 \n\nTeam India \ud83c\uddee\ud83c\uddf3 \nNational Boxer \ud83e\udd47 \nOlympics 2024 \ud83c\uddee\ud83c\uddf3 \nJAI HIND \ud83c\uddee\ud83c\uddf3",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 138,
+      "friends_count": 20,
+      "listed_count": 0,
+      "favourites_count": 30,
+      "statuses_count": 33,
+      "created_at": "Thu Apr 28 10:00:41 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1288164397718765571/lT9NeYla_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1288164397718765571/lT9NeYla_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/725625776222162944/1571498083",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 30 20:55:25 +0000 2020",
+      "id": 1288941290714009600,
+      "id_str": "1288941290714009600",
+      "text": "#BigBreaking #USA #Vaccine #Trump\n\nOnce the Vaccine is ready the US Army will roll it out and distribute it and adm\u2026 https://t.co/2mZIDNTlVP",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1150172736251211776,
+        "id_str": "1150172736251211776",
+        "name": "#\ud835\udd4e\ud835\udd52\ud835\udd63 \u210d\ud835\udd60\ud835\udd63\ud835\udd5a\ud835\udd6b\ud835\udd60\ud835\udd5f",
+        "screen_name": "WarHorizon",
+        "location": "\ud835\udd7b\ud835\udd9a\ud835\udd97\ud835\udd8c\ud835\udd86\ud835\udd99\ud835\udd94\ud835\udd97\ud835\udd8e\ud835\udd94",
+        "url": "https://archive.org/details/ird059",
+        "description": "\"Under the sword lifted high, There is hell making you tremble. But go ahead, And you have the land of bliss\"\n\n\ud835\udd44\ud835\udd60\ud835\udd5f\ud835\udd5a\ud835\udd65\ud835\udd60\ud835\udd63\ud835\udd5a\ud835\udd5f\ud835\udd58:\n\n#Pandemic\n#BreakingNews",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 7081,
+        "friends_count": 56,
+        "listed_count": 3,
+        "favourites_count": 3234,
+        "statuses_count": 5281,
+        "created_at": "Sat Jul 13 22:38:44 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1285504601228181504/xdHX17Cf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504601228181504/xdHX17Cf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1150172736251211776/1595272461",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "#BigBreaking #USA #Vaccine #Trump\n\nOnce the Vaccine is ready the US Army will roll it out and distribute it and administer it to populations. They are on Standby\n\nVaccine Research and Cure is moving at breakneck speed. https://t.co/Af745etgTG",
+        "display_text_range": [
+          0,
+          218
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "BigBreaking",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "text": "USA",
+              "indices": [
+                13,
+                17
+              ]
+            },
+            {
+              "text": "Vaccine",
+              "indices": [
+                18,
+                26
+              ]
+            },
+            {
+              "text": "Trump",
+              "indices": [
+                27,
+                33
+              ]
+            }
+          ],
+          "urls": [],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1288941270904250369,
+              "id_str": "1288941270904250369",
+              "indices": [
+                219,
+                242
+              ],
+              "media_url": "http://pbs.twimg.com/media/EeM9QbyWoAEoJq5.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EeM9QbyWoAEoJq5.jpg",
+              "url": "https://t.co/Af745etgTG",
+              "display_url": "pic.twitter.com/Af745etgTG",
+              "expanded_url": "https://twitter.com/WarHorizon/status/1288941290714009600/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 800,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 453,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1365,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1288941270904250369,
+              "id_str": "1288941270904250369",
+              "indices": [
+                219,
+                242
+              ],
+              "media_url": "http://pbs.twimg.com/media/EeM9QbyWoAEoJq5.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EeM9QbyWoAEoJq5.jpg",
+              "url": "https://t.co/Af745etgTG",
+              "display_url": "pic.twitter.com/Af745etgTG",
+              "expanded_url": "https://twitter.com/WarHorizon/status/1288941290714009600/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 800,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 453,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1365,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "BigBreaking",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "text": "USA",
+            "indices": [
+              13,
+              17
+            ]
+          },
+          {
+            "text": "Vaccine",
+            "indices": [
+              18,
+              26
+            ]
+          },
+          {
+            "text": "Trump",
+            "indices": [
+              27,
+              33
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2mZIDNTlVP",
+            "expanded_url": "https://twitter.com/i/web/status/1288941290714009600",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "BigBreaking",
+          "indices": [
+            16,
+            28
+          ]
+        },
+        {
+          "text": "USA",
+          "indices": [
+            29,
+            33
+          ]
+        },
+        {
+          "text": "Vaccine",
+          "indices": [
+            34,
+            42
+          ]
+        },
+        {
+          "text": "Trump",
+          "indices": [
+            43,
+            49
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "WarHorizon",
+          "name": "#\ud835\udd4e\ud835\udd52\ud835\udd63 \u210d\ud835\udd60\ud835\udd63\ud835\udd5a\ud835\udd6b\ud835\udd60\ud835\udd5f",
+          "id": 1150172736251211776,
+          "id_str": "1150172736251211776",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1596143145170"
+  },
+  {
+    "created_at": "Thu Jul 30 21:05:48 +0000 2020",
+    "id": 1288943902804910085,
+    "id_str": "1288943902804910085",
+    "text": "Revisa el show completo ac\u00e1!\ud83d\udc47\nhttps://t.co/YyyxUQA23w\n#Music #Instamusic #discography #Band  #StayAtHome\u2026 https://t.co/RP50jxOZDT",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1288942665736900608,
+    "in_reply_to_status_id_str": "1288942665736900608",
+    "in_reply_to_user_id": 1264681061797289985,
+    "in_reply_to_user_id_str": "1264681061797289985",
+    "in_reply_to_screen_name": "style28s",
+    "user": {
+      "id": 1264681061797289985,
+      "id_str": "1264681061797289985",
+      "name": "MusicStyle28s",
+      "screen_name": "style28s",
+      "location": null,
+      "url": null,
+      "description": "un sitio para los amantes de la musica, publico Playlists de #Youtube y #Spotify ademas de datos de musica y mas! #SiguemeYTeSigo \ud83c\udfb6\u270c",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 141,
+      "friends_count": 157,
+      "listed_count": 0,
+      "favourites_count": 88,
+      "statuses_count": 280,
+      "created_at": "Sun May 24 22:14:04 +0000 2020",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1272357227773464581/9ZJnJcX-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272357227773464581/9ZJnJcX-_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1264681061797289985/1590510523",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "Revisa el show completo ac\u00e1!\ud83d\udc47\nhttps://t.co/YyyxUQA23w\n#Music #Instamusic #discography #Band  #StayAtHome #QuedateEnCasa #Instafollow #musicaddicted  #Playlist #moodnation #tbt\u2665\ufe0f #Rock #classic #usa\ud83c\uddfa\ud83c\uddf8 #Alternative #Grunge #umplugged #mtvla #livesession #SofiaReyesEnMTVHits",
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Music",
+            "indices": [
+              54,
+              60
+            ]
+          },
+          {
+            "text": "Instamusic",
+            "indices": [
+              61,
+              72
+            ]
+          },
+          {
+            "text": "discography",
+            "indices": [
+              73,
+              85
+            ]
+          },
+          {
+            "text": "Band",
+            "indices": [
+              86,
+              91
+            ]
+          },
+          {
+            "text": "StayAtHome",
+            "indices": [
+              93,
+              104
+            ]
+          },
+          {
+            "text": "QuedateEnCasa",
+            "indices": [
+              105,
+              119
+            ]
+          },
+          {
+            "text": "Instafollow",
+            "indices": [
+              120,
+              132
+            ]
+          },
+          {
+            "text": "musicaddicted",
+            "indices": [
+              133,
+              147
+            ]
+          },
+          {
+            "text": "Playlist",
+            "indices": [
+              149,
+              158
+            ]
+          },
+          {
+            "text": "moodnation",
+            "indices": [
+              159,
+              170
+            ]
+          },
+          {
+            "text": "tbt",
+            "indices": [
+              171,
+              175
+            ]
+          },
+          {
+            "text": "Rock",
+            "indices": [
+              178,
+              183
+            ]
+          },
+          {
+            "text": "classic",
+            "indices": [
+              184,
+              192
+            ]
+          },
+          {
+            "text": "usa",
+            "indices": [
+              193,
+              197
+            ]
+          },
+          {
+            "text": "Alternative",
+            "indices": [
+              200,
+              212
+            ]
+          },
+          {
+            "text": "Grunge",
+            "indices": [
+              213,
+              220
+            ]
+          },
+          {
+            "text": "umplugged",
+            "indices": [
+              221,
+              231
+            ]
+          },
+          {
+            "text": "mtvla",
+            "indices": [
+              232,
+              238
+            ]
+          },
+          {
+            "text": "livesession",
+            "indices": [
+              239,
+              251
+            ]
+          },
+          {
+            "text": "SofiaReyesEnMTVHits",
+            "indices": [
+              252,
+              272
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YyyxUQA23w",
+            "expanded_url": "https://www.youtube.com/playlist?list=PLclODpQJhNz7vm19Ab3k31tUX7dncoup4",
+            "display_url": "youtube.com/playlist?list=\u2026",
+            "indices": [
+              30,
+              53
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Music",
+          "indices": [
+            54,
+            60
+          ]
+        },
+        {
+          "text": "Instamusic",
+          "indices": [
+            61,
+            72
+          ]
+        },
+        {
+          "text": "discography",
+          "indices": [
+            73,
+            85
+          ]
+        },
+        {
+          "text": "Band",
+          "indices": [
+            86,
+            91
+          ]
+        },
+        {
+          "text": "StayAtHome",
+          "indices": [
+            93,
+            104
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YyyxUQA23w",
+          "expanded_url": "https://www.youtube.com/playlist?list=PLclODpQJhNz7vm19Ab3k31tUX7dncoup4",
+          "display_url": "youtube.com/playlist?list=\u2026",
+          "indices": [
+            30,
+            53
+          ]
+        },
+        {
+          "url": "https://t.co/RP50jxOZDT",
+          "expanded_url": "https://twitter.com/i/web/status/1288943902804910085",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            106,
+            129
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1596143148505"
+  },
+  {
+    "created_at": "Thu Jul 30 21:05:56 +0000 2020",
+    "id": 1288943935914741761,
+    "id_str": "1288943935914741761",
+    "text": "RT @SteveParadise: #photography by #5T3V3P4R4D153 #miami #florida #usa #graffitiart #architecturephotography #design #graphics #landscapeph\u2026",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816255732811186176,
+      "id_str": "816255732811186176",
+      "name": "ToxicAngelStudios WW",
+      "screen_name": "ST3V3P4R4DIS3",
+      "location": null,
+      "url": null,
+      "description": "Recorded atTOXIC ANGEL STUDIOS world wide, \nWritten and performed By 5T3V3P4R4D153.\nStefanoBellvz\u00a92020",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 55,
+      "friends_count": 38,
+      "listed_count": 11,
+      "favourites_count": 4963,
+      "statuses_count": 5844,
+      "created_at": "Tue Jan 03 12:11:46 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1227856646820573184/c6_4Pa5p_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227856646820573184/c6_4Pa5p_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816255732811186176/1483446702",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 30 08:27:43 +0000 2020",
+      "id": 1288753124589670400,
+      "id_str": "1288753124589670400",
+      "text": "#photography by #5T3V3P4R4D153 #miami #florida #usa #graffitiart #architecturephotography #design #graphics\u2026 https://t.co/xywIdymgXm",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14282854,
+        "id_str": "14282854",
+        "name": "5T3V3P4R4D153",
+        "screen_name": "SteveParadise",
+        "location": "Studio City California",
+        "url": "http://cdbaby.com/cd/steveparadise",
+        "description": "5T3V3P4R4D153 is a multi media artist",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 157,
+        "friends_count": 1,
+        "listed_count": 55,
+        "favourites_count": 4136,
+        "statuses_count": 9677,
+        "created_at": "Wed Apr 02 13:18:04 +0000 2008",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1227856008439107584/swQNE1DZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227856008439107584/swQNE1DZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14282854/1465481888",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "#photography by #5T3V3P4R4D153 #miami #florida #usa #graffitiart #architecturephotography #design #graphics #landscapephotography #naturephotography #indieartist #Italy #cyclinglife please subscribe your support is really appreciated. https://t.co/RrHf6LUILk",
+        "display_text_range": [
+          0,
+          234
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "photography",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "text": "5T3V3P4R4D153",
+              "indices": [
+                16,
+                30
+              ]
+            },
+            {
+              "text": "miami",
+              "indices": [
+                31,
+                37
+              ]
+            },
+            {
+              "text": "florida",
+              "indices": [
+                38,
+                46
+              ]
+            },
+            {
+              "text": "usa",
+              "indices": [
+                47,
+                51
+              ]
+            },
+            {
+              "text": "graffitiart",
+              "indices": [
+                52,
+                64
+              ]
+            },
+            {
+              "text": "architecturephotography",
+              "indices": [
+                65,
+                89
+              ]
+            },
+            {
+              "text": "design",
+              "indices": [
+                90,
+                97
+              ]
+            },
+            {
+              "text": "graphics",
+              "indices": [
+                98,
+                107
+              ]
+            },
+            {
+              "text": "landscapephotography",
+              "indices": [
+                108,
+                129
+              ]
+            },
+            {
+              "text": "naturephotography",
+              "indices": [
+                130,
+                148
+              ]
+            },
+            {
+              "text": "indieartist",
+              "indices": [
+                149,
+                161
+              ]
+            },
+            {
+              "text": "Italy",
+              "indices": [
+                162,
+                168
+              ]
+            },
+            {
+              "text": "cyclinglife",
+              "indices": [
+                169,
+                181
+              ]
+            }
+          ],
+          "urls": [],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1288753039944409088,
+              "id_str": "1288753039944409088",
+              "indices": [
+                235,
+                258
+              ],
+              "media_url": "http://pbs.twimg.com/media/EeKSD80XYAAJpv_.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EeKSD80XYAAJpv_.jpg",
+              "url": "https://t.co/RrHf6LUILk",
+              "display_url": "pic.twitter.com/RrHf6LUILk",
+              "expanded_url": "https://twitter.com/SteveParadise/status/1288753124589670400/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 1013,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 574,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1729,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1288753040007344129,
+              "id_str": "1288753040007344129",
+              "indices": [
+                235,
+                258
+              ],
+              "media_url": "http://pbs.twimg.com/media/EeKSD9DXsAE6PSV.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EeKSD9DXsAE6PSV.jpg",
+              "url": "https://t.co/RrHf6LUILk",
+              "display_url": "pic.twitter.com/RrHf6LUILk",
+              "expanded_url": "https://twitter.com/SteveParadise/status/1288753124589670400/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 465,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 264,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 794,
+                  "h": 2048,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1288753040070184961,
+              "id_str": "1288753040070184961",
+              "indices": [
+                235,
+                258
+              ],
+              "media_url": "http://pbs.twimg.com/media/EeKSD9SWkAERFag.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EeKSD9SWkAERFag.jpg",
+              "url": "https://t.co/RrHf6LUILk",
+              "display_url": "pic.twitter.com/RrHf6LUILk",
+              "expanded_url": "https://twitter.com/SteveParadise/status/1288753124589670400/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 525,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 927,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1582,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1288753040074448897,
+              "id_str": "1288753040074448897",
+              "indices": [
+                235,
+                258
+              ],
+              "media_url": "http://pbs.twimg.com/media/EeKSD9TXoAEz38H.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EeKSD9TXoAEz38H.jpg",
+              "url": "https://t.co/RrHf6LUILk",
+              "display_url": "pic.twitter.com/RrHf6LUILk",
+              "expanded_url": "https://twitter.com/SteveParadise/status/1288753124589670400/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1286,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 427,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 754,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1288753039944409088,
+              "id_str": "1288753039944409088",
+              "indices": [
+                235,
+                258
+              ],
+              "media_url": "http://pbs.twimg.com/media/EeKSD80XYAAJpv_.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EeKSD80XYAAJpv_.jpg",
+              "url": "https://t.co/RrHf6LUILk",
+              "display_url": "pic.twitter.com/RrHf6LUILk",
+              "expanded_url": "https://twitter.com/SteveParadise/status/1288753124589670400/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 1013,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 574,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1729,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1288753040007344129,
+              "id_str": "1288753040007344129",
+              "indices": [
+                235,
+                258
+              ],
+              "media_url": "http://pbs.twimg.com/media/EeKSD9DXsAE6PSV.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EeKSD9DXsAE6PSV.jpg",
+              "url": "https://t.co/RrHf6LUILk",
+              "display_url": "pic.twitter.com/RrHf6LUILk",
+              "expanded_url": "https://twitter.com/SteveParadise/status/1288753124589670400/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 465,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 264,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 794,
+                  "h": 2048,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1288753040070184961,
+              "id_str": "1288753040070184961",
+              "indices": [
+                235,
+                258
+              ],
+              "media_url": "http://pbs.twimg.com/media/EeKSD9SWkAERFag.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EeKSD9SWkAERFag.jpg",
+              "url": "https://t.co/RrHf6LUILk",
+              "display_url": "pic.twitter.com/RrHf6LUILk",
+              "expanded_url": "https://twitter.com/SteveParadise/status/1288753124589670400/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 525,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 927,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1582,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1288753040074448897,
+              "id_str": "1288753040074448897",
+              "indices": [
+                235,
+                258
+              ],
+              "media_url": "http://pbs.twimg.com/media/EeKSD9TXoAEz38H.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EeKSD9TXoAEz38H.jpg",
+              "url": "https://t.co/RrHf6LUILk",
+              "display_url": "pic.twitter.com/RrHf6LUILk",
+              "expanded_url": "https://twitter.com/SteveParadise/status/1288753124589670400/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1286,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 427,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 754,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "photography",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "text": "5T3V3P4R4D153",
+            "indices": [
+              16,
+              30
+            ]
+          },
+          {
+            "text": "miami",
+            "indices": [
+              31,
+              37
+            ]
+          },
+          {
+            "text": "florida",
+            "indices": [
+              38,
+              46
+            ]
+          },
+          {
+            "text": "usa",
+            "indices": [
+              47,
+              51
+            ]
+          },
+          {
+            "text": "graffitiart",
+            "indices": [
+              52,
+              64
+            ]
+          },
+          {
+            "text": "architecturephotography",
+            "indices": [
+              65,
+              89
+            ]
+          },
+          {
+            "text": "design",
+            "indices": [
+              90,
+              97
+            ]
+          },
+          {
+            "text": "graphics",
+            "indices": [
+              98,
+              107
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xywIdymgXm",
+            "expanded_url": "https://twitter.com/i/web/status/1288753124589670400",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "photography",
+          "indices": [
+            19,
+            31
+          ]
+        },
+        {
+          "text": "5T3V3P4R4D153",
+          "indices": [
+            35,
+            49
+          ]
+        },
+        {
+          "text": "miami",
+          "indices": [
+            50,
+            56
+          ]
+        },
+        {
+          "text": "florida",
+          "indices": [
+            57,
+            65
+          ]
+        },
+        {
+          "text": "usa",
+          "indices": [
+            66,
+            70
+          ]
+        },
+        {
+          "text": "graffitiart",
+          "indices": [
+            71,
+            83
+          ]
+        },
+        {
+          "text": "architecturephotography",
+          "indices": [
+            84,
+            108
+          ]
+        },
+        {
+          "text": "design",
+          "indices": [
+            109,
+            116
+          ]
+        },
+        {
+          "text": "graphics",
+          "indices": [
+            117,
+            126
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "SteveParadise",
+          "name": "5T3V3P4R4D153",
+          "id": 14282854,
+          "id_str": "14282854",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1596143156399"
+  },
+  {
+    "created_at": "Thu Jul 30 21:05:58 +0000 2020",
+    "id": 1288943945427361794,
+    "id_str": "1288943945427361794",
+    "text": "RT @WarHorizon: #BIGBreaking #USA #Chinavirus \n\n\"Hyper Immune Plasma Therapy\" - New Therapy USA is trying to eradicate coronavirus as a cur\u2026",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 725625776222162944,
+      "id_str": "725625776222162944",
+      "name": "Anjali Tushir \ud83c\uddee\ud83c\uddf3",
+      "screen_name": "Anjali__Tushir",
+      "location": "New Delhi, India",
+      "url": null,
+      "description": "National & International Boxer\ud83e\udd47 \n\nTeam India \ud83c\uddee\ud83c\uddf3 \nNational Boxer \ud83e\udd47 \nOlympics 2024 \ud83c\uddee\ud83c\uddf3 \nJAI HIND \ud83c\uddee\ud83c\uddf3",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 138,
+      "friends_count": 20,
+      "listed_count": 0,
+      "favourites_count": 31,
+      "statuses_count": 34,
+      "created_at": "Thu Apr 28 10:00:41 +0000 2016",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1288164397718765571/lT9NeYla_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1288164397718765571/lT9NeYla_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/725625776222162944/1571498083",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 30 20:49:21 +0000 2020",
+      "id": 1288939763534266368,
+      "id_str": "1288939763534266368",
+      "text": "#BIGBreaking #USA #Chinavirus \n\n\"Hyper Immune Plasma Therapy\" - New Therapy USA is trying to eradicate coronavirus\u2026 https://t.co/nmAcydMQSX",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1150172736251211776,
+        "id_str": "1150172736251211776",
+        "name": "#\ud835\udd4e\ud835\udd52\ud835\udd63 \u210d\ud835\udd60\ud835\udd63\ud835\udd5a\ud835\udd6b\ud835\udd60\ud835\udd5f",
+        "screen_name": "WarHorizon",
+        "location": "\ud835\udd7b\ud835\udd9a\ud835\udd97\ud835\udd8c\ud835\udd86\ud835\udd99\ud835\udd94\ud835\udd97\ud835\udd8e\ud835\udd94",
+        "url": "https://archive.org/details/ird059",
+        "description": "\"Under the sword lifted high, There is hell making you tremble. But go ahead, And you have the land of bliss\"\n\n\ud835\udd44\ud835\udd60\ud835\udd5f\ud835\udd5a\ud835\udd65\ud835\udd60\ud835\udd63\ud835\udd5a\ud835\udd5f\ud835\udd58:\n\n#Pandemic\n#BreakingNews",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 7081,
+        "friends_count": 56,
+        "listed_count": 3,
+        "favourites_count": 3234,
+        "statuses_count": 5281,
+        "created_at": "Sat Jul 13 22:38:44 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1285504601228181504/xdHX17Cf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504601228181504/xdHX17Cf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1150172736251211776/1595272461",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "#BIGBreaking #USA #Chinavirus \n\n\"Hyper Immune Plasma Therapy\" - New Therapy USA is trying to eradicate coronavirus as a cure\n\nClinical Trials - August Trials start in USA , They are aiming to roll this out by Year End. They are asking people who recovered to donate blood. https://t.co/Fu5IXdxv0B",
+        "display_text_range": [
+          0,
+          272
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "BIGBreaking",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "text": "USA",
+              "indices": [
+                13,
+                17
+              ]
+            },
+            {
+              "text": "Chinavirus",
+              "indices": [
+                18,
+                29
+              ]
+            }
+          ],
+          "urls": [],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1288939741111623682,
+              "id_str": "1288939741111623682",
+              "indices": [
+                273,
+                296
+              ],
+              "media_url": "http://pbs.twimg.com/media/EeM73Y3XoAIsjs-.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EeM73Y3XoAIsjs-.jpg",
+              "url": "https://t.co/Fu5IXdxv0B",
+              "display_url": "pic.twitter.com/Fu5IXdxv0B",
+              "expanded_url": "https://twitter.com/WarHorizon/status/1288939763534266368/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1000,
+                  "h": 750,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1000,
+                  "h": 750,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1288939741111623682,
+              "id_str": "1288939741111623682",
+              "indices": [
+                273,
+                296
+              ],
+              "media_url": "http://pbs.twimg.com/media/EeM73Y3XoAIsjs-.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EeM73Y3XoAIsjs-.jpg",
+              "url": "https://t.co/Fu5IXdxv0B",
+              "display_url": "pic.twitter.com/Fu5IXdxv0B",
+              "expanded_url": "https://twitter.com/WarHorizon/status/1288939763534266368/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1000,
+                  "h": 750,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1000,
+                  "h": 750,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 2,
+      "favorite_count": 6,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "BIGBreaking",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "text": "USA",
+            "indices": [
+              13,
+              17
+            ]
+          },
+          {
+            "text": "Chinavirus",
+            "indices": [
+              18,
+              29
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nmAcydMQSX",
+            "expanded_url": "https://twitter.com/i/web/status/1288939763534266368",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "BIGBreaking",
+          "indices": [
+            16,
+            28
+          ]
+        },
+        {
+          "text": "USA",
+          "indices": [
+            29,
+            33
+          ]
+        },
+        {
+          "text": "Chinavirus",
+          "indices": [
+            34,
+            45
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "WarHorizon",
+          "name": "#\ud835\udd4e\ud835\udd52\ud835\udd63 \u210d\ud835\udd60\ud835\udd63\ud835\udd5a\ud835\udd6b\ud835\udd60\ud835\udd5f",
+          "id": 1150172736251211776,
+          "id_str": "1150172736251211776",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1596143158667"
+  },
+  {
+    "created_at": "Thu Jul 30 21:05:59 +0000 2020",
+    "id": 1288943949596549121,
+    "id_str": "1288943949596549121",
+    "text": "RT @biobiobiobior: \ud83d\udd34USA, 30 Juillet: \u201cSi quelqu\u2019un \u00e9crit que l\u2019hydroxychloroquine est un rem\u00e8de contre le Covid19 nous le retirerons\u201d.....#\u2026",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 926483842315313152,
+      "id_str": "926483842315313152",
+      "name": "Patrick Caron",
+      "screen_name": "Patcaron54",
+      "location": null,
+      "url": null,
+      "description": null,
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 404,
+      "friends_count": 96,
+      "listed_count": 2,
+      "favourites_count": 52703,
+      "statuses_count": 50984,
+      "created_at": "Fri Nov 03 16:18:56 +0000 2017",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 30 12:23:43 +0000 2020",
+      "id": 1288812516144033792,
+      "id_str": "1288812516144033792",
+      "text": "\ud83d\udd34USA, 30 Juillet: \u201cSi quelqu\u2019un \u00e9crit que l\u2019hydroxychloroquine est un rem\u00e8de contre le Covid19 nous le retirerons\u201d.\u2026 https://t.co/yvqbvfp9J0",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 60929362,
+        "id_str": "60929362",
+        "name": "Biobiobiobio",
+        "screen_name": "biobiobiobior",
+        "location": null,
+        "url": null,
+        "description": "Quand l\u2019eau est trouble, in fine, tout finit par remonter \u00e0 la surface, ou couler d\u00e9finitivement.....",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3324,
+        "friends_count": 397,
+        "listed_count": 24,
+        "favourites_count": 9152,
+        "statuses_count": 12454,
+        "created_at": "Tue Jul 28 15:16:31 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1231218093/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1231218093/image_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "\ud83d\udd34USA, 30 Juillet: \u201cSi quelqu\u2019un \u00e9crit que l\u2019hydroxychloroquine est un rem\u00e8de contre le Covid19 nous le retirerons\u201d.....#USA #France #hydroxycholoroquine #Raoult https://t.co/k3gEjoXQcA",
+        "display_text_range": [
+          0,
+          184
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "USA",
+              "indices": [
+                119,
+                123
+              ]
+            },
+            {
+              "text": "France",
+              "indices": [
+                124,
+                131
+              ]
+            },
+            {
+              "text": "hydroxycholoroquine",
+              "indices": [
+                132,
+                152
+              ]
+            },
+            {
+              "text": "Raoult",
+              "indices": [
+                153,
+                160
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/k3gEjoXQcA",
+              "expanded_url": "https://reclaimthenet.org/mark-zuckerberg-hydroxychloroquine-antitrust-hearing/",
+              "display_url": "reclaimthenet.org/mark-zuckerber\u2026",
+              "indices": [
+                161,
+                184
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        }
+      },
+      "quote_count": 158,
+      "reply_count": 258,
+      "retweet_count": 795,
+      "favorite_count": 533,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/yvqbvfp9J0",
+            "expanded_url": "https://twitter.com/i/web/status/1288812516144033792",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "fr"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "biobiobiobior",
+          "name": "Biobiobiobio",
+          "id": 60929362,
+          "id_str": "60929362",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "fr",
+    "timestamp_ms": "1596143159661"
+  },
+  {
+    "created_at": "Thu Jul 30 21:06:00 +0000 2020",
+    "id": 1288943951647399936,
+    "id_str": "1288943951647399936",
+    "text": "RT @mmtexas: @keithboykin And that, ladies and gentlemen, is how a #President should speak! \n\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\n\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\n#JohnLewisMemorial #JohnLewis\u2026",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1054609287308169216,
+      "id_str": "1054609287308169216",
+      "name": "goldeemxtra1",
+      "screen_name": "goldeemxtra1",
+      "location": "California, USA",
+      "url": null,
+      "description": "Love all Animals joined October 2018 Trump must go! #Resist #PRU #LGBTQ Angry Democrat Vote Blue No Matter Who.May birthday.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 12021,
+      "friends_count": 12542,
+      "listed_count": 9,
+      "favourites_count": 54121,
+      "statuses_count": 43297,
+      "created_at": "Tue Oct 23 05:43:42 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1099798377615638528/h8Em0d1g_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099798377615638528/h8Em0d1g_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1054609287308169216/1551048151",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 30 18:24:08 +0000 2020",
+      "id": 1288903216026058752,
+      "id_str": "1288903216026058752",
+      "text": "@keithboykin And that, ladies and gentlemen, is how a #President should speak! \n\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\n\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\n#JohnLewisMemorial\u2026 https://t.co/u5KRMem8GC",
+      "display_text_range": [
+        13,
+        140
+      ],
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": true,
+      "in_reply_to_status_id": 1288902336883105793,
+      "in_reply_to_status_id_str": "1288902336883105793",
+      "in_reply_to_user_id": 21728303,
+      "in_reply_to_user_id_str": "21728303",
+      "in_reply_to_screen_name": "keithboykin",
+      "user": {
+        "id": 19804520,
+        "id_str": "19804520",
+        "name": "Puh-lease wear your \ud83d\ude37! \ud83d\udc60\ud83d\udc84",
+        "screen_name": "mmtexas",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 95,
+        "friends_count": 174,
+        "listed_count": 0,
+        "favourites_count": 267,
+        "statuses_count": 10149,
+        "created_at": "Sat Jan 31 04:19:14 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1059320485849321473/0-JC-vYH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059320485849321473/0-JC-vYH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19804520/1591162844",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "@keithboykin And that, ladies and gentlemen, is how a #President should speak! \n\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\n\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\n#JohnLewisMemorial #JohnLewisFuneral #JohnLewis #JohnLewisRIP #JohnLewisHomegoing #RepJohnLewis #Georgia #BarackObama #Obama #PresidentObama #USA https://t.co/V3a4S39cEB",
+        "display_text_range": [
+          13,
+          242
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "President",
+              "indices": [
+                54,
+                64
+              ]
+            },
+            {
+              "text": "JohnLewisMemorial",
+              "indices": [
+                97,
+                115
+              ]
+            },
+            {
+              "text": "JohnLewisFuneral",
+              "indices": [
+                116,
+                133
+              ]
+            },
+            {
+              "text": "JohnLewis",
+              "indices": [
+                134,
+                144
+              ]
+            },
+            {
+              "text": "JohnLewisRIP",
+              "indices": [
+                145,
+                158
+              ]
+            },
+            {
+              "text": "JohnLewisHomegoing",
+              "indices": [
+                159,
+                178
+              ]
+            },
+            {
+              "text": "RepJohnLewis",
+              "indices": [
+                179,
+                192
+              ]
+            },
+            {
+              "text": "Georgia",
+              "indices": [
+                193,
+                201
+              ]
+            },
+            {
+              "text": "BarackObama",
+              "indices": [
+                202,
+                214
+              ]
+            },
+            {
+              "text": "Obama",
+              "indices": [
+                215,
+                221
+              ]
+            },
+            {
+              "text": "PresidentObama",
+              "indices": [
+                222,
+                237
+              ]
+            },
+            {
+              "text": "USA",
+              "indices": [
+                238,
+                242
+              ]
+            }
+          ],
+          "urls": [],
+          "user_mentions": [
+            {
+              "screen_name": "keithboykin",
+              "name": "Keith Boykin",
+              "id": 21728303,
+              "id_str": "21728303",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1288903210053361665,
+              "id_str": "1288903210053361665",
+              "indices": [
+                243,
+                266
+              ],
+              "description": "Standing Ovation GIF",
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/EeMapAEXYAE6XB4.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EeMapAEXYAE6XB4.jpg",
+              "url": "https://t.co/V3a4S39cEB",
+              "display_url": "pic.twitter.com/V3a4S39cEB",
+              "expanded_url": "https://twitter.com/mmtexas/status/1288903216026058752/photo/1",
+              "type": "animated_gif",
+              "video_info": {
+                "aspect_ratio": [
+                  249,
+                  119
+                ],
+                "variants": [
+                  {
+                    "bitrate": 0,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/tweet_video/EeMapAEXYAE6XB4.mp4"
+                  }
+                ]
+              },
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 498,
+                  "h": 238,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 498,
+                  "h": 238,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 498,
+                  "h": 238,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1288903210053361665,
+              "id_str": "1288903210053361665",
+              "indices": [
+                243,
+                266
+              ],
+              "description": "Standing Ovation GIF",
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/EeMapAEXYAE6XB4.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EeMapAEXYAE6XB4.jpg",
+              "url": "https://t.co/V3a4S39cEB",
+              "display_url": "pic.twitter.com/V3a4S39cEB",
+              "expanded_url": "https://twitter.com/mmtexas/status/1288903216026058752/photo/1",
+              "type": "animated_gif",
+              "video_info": {
+                "aspect_ratio": [
+                  249,
+                  119
+                ],
+                "variants": [
+                  {
+                    "bitrate": 0,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/tweet_video/EeMapAEXYAE6XB4.mp4"
+                  }
+                ]
+              },
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 498,
+                  "h": 238,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 498,
+                  "h": 238,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 498,
+                  "h": 238,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3,
+      "favorite_count": 6,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "President",
+            "indices": [
+              54,
+              64
+            ]
+          },
+          {
+            "text": "JohnLewisMemorial",
+            "indices": [
+              97,
+              115
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/u5KRMem8GC",
+            "expanded_url": "https://twitter.com/i/web/status/1288903216026058752",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "keithboykin",
+            "name": "Keith Boykin",
+            "id": 21728303,
+            "id_str": "21728303",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "President",
+          "indices": [
+            67,
+            77
+          ]
+        },
+        {
+          "text": "JohnLewisMemorial",
+          "indices": [
+            110,
+            128
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "mmtexas",
+          "name": "Puh-lease wear your \ud83d\ude37! \ud83d\udc60\ud83d\udc84",
+          "id": 19804520,
+          "id_str": "19804520",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "keithboykin",
+          "name": "Keith Boykin",
+          "id": 21728303,
+          "id_str": "21728303",
+          "indices": [
+            13,
+            25
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1596143160150"
+  },
+  {
+    "created_at": "Thu Jul 30 21:06:01 +0000 2020",
+    "id": 1288943956080951298,
+    "id_str": "1288943956080951298",
+    "text": "How do you maintain employee engagement during #COVID-19 &amp; its impact that has led to the greatest workplace transf\u2026 https://t.co/j52xryFIwk",
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1140625938939613184,
+      "id_str": "1140625938939613184",
+      "name": "Newland Associates",
+      "screen_name": "DecodeTheHuman",
+      "location": "Florida, USA | Puerto Rico",
+      "url": "http://www.newland-associates.com",
+      "description": "We help organizations DECODE THE HUMAN to improve talent acquisition, talent management, and business performance.\nCPI Partner | Predictive Index Partner",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 26,
+      "friends_count": 82,
+      "listed_count": 0,
+      "favourites_count": 31,
+      "statuses_count": 94,
+      "created_at": "Mon Jun 17 14:23:10 +0000 2019",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1176918138140725248/V7SzFRu9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1176918138140725248/V7SzFRu9_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1140625938939613184/1569434125",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "How do you maintain employee engagement during #COVID-19 &amp; its impact that has led to the greatest workplace transformation of our lifetime? Check out \"4 Employee Engagement Strategies\" for ideas you can implement today. https://t.co/EyMe6VpPhr\n#humanresources #employeeengagement",
+      "display_text_range": [
+        0,
+        284
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "COVID",
+            "indices": [
+              47,
+              53
+            ]
+          },
+          {
+            "text": "humanresources",
+            "indices": [
+              249,
+              264
+            ]
+          },
+          {
+            "text": "employeeengagement",
+            "indices": [
+              265,
+              284
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/EyMe6VpPhr",
+            "expanded_url": "https://bit.ly/2XfhT2q",
+            "display_url": "bit.ly/2XfhT2q",
+            "indices": [
+              225,
+              248
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "COVID",
+          "indices": [
+            47,
+            53
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/j52xryFIwk",
+          "expanded_url": "https://twitter.com/i/web/status/1288943956080951298",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1596143161207"
+  },
+  {
+    "created_at": "Thu Jul 30 21:06:07 +0000 2020",
+    "id": 1288943983436025856,
+    "id_str": "1288943983436025856",
+    "text": "RT @SharonMathala: Someone asked me to share this. Her dials are 72764791. These really are the uninteded effects of lockdown. \n#Covid-19 h\u2026",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 963114259260600320,
+      "id_str": "963114259260600320",
+      "name": "Kristelle \ud83e\uddda\ud83c\udffe",
+      "screen_name": "tsholo_ratsoma",
+      "location": "Botswana. ",
+      "url": null,
+      "description": "ig: tsholofelo.ratsoma",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 539,
+      "friends_count": 408,
+      "listed_count": 0,
+      "favourites_count": 22267,
+      "statuses_count": 3754,
+      "created_at": "Mon Feb 12 18:15:07 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1287410992226488320/UgooNcv2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287410992226488320/UgooNcv2_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/963114259260600320/1592256053",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 30 21:04:53 +0000 2020",
+      "id": 1288943670935396353,
+      "id_str": "1288943670935396353",
+      "text": "Someone asked me to share this. Her dials are 72764791. These really are the uninteded effects of lockdown. \n#Covid\u2026 https://t.co/UMj6ttjE4d",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 395866299,
+        "id_str": "395866299",
+        "name": "SharonMathalaAndHerVoice",
+        "screen_name": "SharonMathala",
+        "location": "botswana",
+        "url": "http://www.facebook.com/sharongamemathala",
+        "description": "Entertainment | Court| Crime Journalist |\n\nI am sister, a daughter, a friend and a Senior reporter at @TheVoiceBW\n\nBut views expressed here are mine.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 5879,
+        "friends_count": 1767,
+        "listed_count": 16,
+        "favourites_count": 6281,
+        "statuses_count": 12873,
+        "created_at": "Sat Oct 22 11:27:00 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1184017628551176192/8SMDxmCB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1184017628551176192/8SMDxmCB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/395866299/1588013823",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "Someone asked me to share this. Her dials are 72764791. These really are the uninteded effects of lockdown. \n#Covid-19 https://t.co/yLlU0M25FY",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Covid",
+              "indices": [
+                109,
+                115
+              ]
+            }
+          ],
+          "urls": [],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1288943661670113280,
+              "id_str": "1288943661670113280",
+              "indices": [
+                119,
+                142
+              ],
+              "media_url": "http://pbs.twimg.com/media/EeM_bmFWoAAVLbT.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EeM_bmFWoAAVLbT.jpg",
+              "url": "https://t.co/yLlU0M25FY",
+              "display_url": "pic.twitter.com/yLlU0M25FY",
+              "expanded_url": "https://twitter.com/SharonMathala/status/1288943670935396353/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 603,
+                  "h": 854,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 603,
+                  "h": 854,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 480,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1288943661670113280,
+              "id_str": "1288943661670113280",
+              "indices": [
+                119,
+                142
+              ],
+              "media_url": "http://pbs.twimg.com/media/EeM_bmFWoAAVLbT.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EeM_bmFWoAAVLbT.jpg",
+              "url": "https://t.co/yLlU0M25FY",
+              "display_url": "pic.twitter.com/yLlU0M25FY",
+              "expanded_url": "https://twitter.com/SharonMathala/status/1288943670935396353/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 603,
+                  "h": 854,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 603,
+                  "h": 854,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 480,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 3,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Covid",
+            "indices": [
+              109,
+              115
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/UMj6ttjE4d",
+            "expanded_url": "https://twitter.com/i/web/status/1288943670935396353",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Covid",
+          "indices": [
+            128,
+            134
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "SharonMathala",
+          "name": "SharonMathalaAndHerVoice",
+          "id": 395866299,
+          "id_str": "395866299",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1596143167729"
+  },
+  {
+    "created_at": "Thu Jul 30 21:06:08 +0000 2020",
+    "id": 1288943988607778817,
+    "id_str": "1288943988607778817",
+    "text": "RT @cubadebatecu: #EEUU incluye en lista negra a banco cubano radicado en Reino Unido y bloquea sus... https://t.co/4voir6tYMO @CubaEEUU #U\u2026",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 544787139,
+      "id_str": "544787139",
+      "name": "pablo vazquez",
+      "screen_name": "darioblo1986",
+      "location": null,
+      "url": null,
+      "description": "este somos todos.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 643,
+      "friends_count": 635,
+      "listed_count": 0,
+      "favourites_count": 3626,
+      "statuses_count": 39529,
+      "created_at": "Wed Apr 04 00:24:20 +0000 2012",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1273212148374745090/o_eIXgDw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1273212148374745090/o_eIXgDw_normal.jpg",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 30 20:10:07 +0000 2020",
+      "id": 1288929888792203266,
+      "id_str": "1288929888792203266",
+      "text": "#EEUU incluye en lista negra a banco cubano radicado en Reino Unido y bloquea sus... https://t.co/4voir6tYMO @CubaEEUU #USA #Cuba",
+      "source": "<a href=\"http://www.cubadebate.cu\" rel=\"nofollow\">Cubadebate</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1179768099442171910,
+        "id_str": "1179768099442171910",
+        "name": "Cubadebate",
+        "screen_name": "cubadebatecu",
+        "location": "Cuba",
+        "url": "http://www.cubadebate.cu",
+        "description": "Cubadebate, contra el Terrorismo Medi\u00e1tico | #26deJulio #CubaPorLaVida",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 24098,
+        "friends_count": 304,
+        "listed_count": 66,
+        "favourites_count": 252,
+        "statuses_count": 8961,
+        "created_at": "Thu Oct 03 14:40:44 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1288473001617428480/_rKlOGnU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1288473001617428480/_rKlOGnU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1179768099442171910/1595455023",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 4,
+      "reply_count": 8,
+      "retweet_count": 28,
+      "favorite_count": 27,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "EEUU",
+            "indices": [
+              0,
+              5
+            ]
+          },
+          {
+            "text": "USA",
+            "indices": [
+              119,
+              123
+            ]
+          },
+          {
+            "text": "Cuba",
+            "indices": [
+              124,
+              129
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/4voir6tYMO",
+            "expanded_url": "https://bit.ly/2BJ2r70",
+            "display_url": "bit.ly/2BJ2r70",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "CubaEEUU",
+            "name": "Relaciones Cuba-EEUU",
+            "id": 3084762909,
+            "id_str": "3084762909",
+            "indices": [
+              109,
+              118
+            ]
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "es"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "EEUU",
+          "indices": [
+            18,
+            23
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4voir6tYMO",
+          "expanded_url": "https://bit.ly/2BJ2r70",
+          "display_url": "bit.ly/2BJ2r70",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "cubadebatecu",
+          "name": "Cubadebate",
+          "id": 1179768099442171910,
+          "id_str": "1179768099442171910",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "CubaEEUU",
+          "name": "Relaciones Cuba-EEUU",
+          "id": 3084762909,
+          "id_str": "3084762909",
+          "indices": [
+            127,
+            136
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1596143168962"
+  },
+  {
+    "created_at": "Thu Jul 30 21:06:09 +0000 2020",
+    "id": 1288943992479064064,
+    "id_str": "1288943992479064064",
+    "text": "RT @Markus_Soeder: Wir sind wirklich von unserem langj\u00e4hrigen Partner und Freund entt\u00e4uscht. Jetzt warten wir aber ab, ob und wie schnell d\u2026",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2861448911,
+      "id_str": "2861448911",
+      "name": "Jennifer Bley",
+      "screen_name": "BleyJennifer",
+      "location": "Deutschland",
+      "url": "http://www.amazon.de/-/e/B0095ZQOL0",
+      "description": "Autor, Maler, Cartoonist, Natur- und Tierliebhaber sagt: Keine noch so sch\u00f6ne Landschaft kann \u00fcber den Charakter ihrer Bewohner hinwegt\u00e4uschen.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 893,
+      "friends_count": 974,
+      "listed_count": 22,
+      "favourites_count": 32698,
+      "statuses_count": 37770,
+      "created_at": "Tue Nov 04 21:17:42 +0000 2014",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/533000676540809217/pGxIlBsM_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/533000676540809217/pGxIlBsM_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2861448911/1415137521",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 30 12:29:27 +0000 2020",
+      "id": 1288813957436903424,
+      "id_str": "1288813957436903424",
+      "text": "Wir sind wirklich von unserem langj\u00e4hrigen Partner und Freund entt\u00e4uscht. Jetzt warten wir aber ab, ob und wie schn\u2026 https://t.co/0phgu73qZU",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 793778228,
+        "id_str": "793778228",
+        "name": "Markus S\u00f6der",
+        "screen_name": "Markus_Soeder",
+        "location": "N\u00fcrnberg",
+        "url": "http://www.soeder.de",
+        "description": "offizieller Twitter-Account von Markus S\u00f6der",
+        "translator_type": "none",
+        "protected": false,
+        "verified": true,
+        "followers_count": 146000,
+        "friends_count": 275,
+        "listed_count": 636,
+        "favourites_count": 155,
+        "statuses_count": 2870,
+        "created_at": "Fri Aug 31 12:38:50 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1031917668222337025/zw2lDgvj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031917668222337025/zw2lDgvj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/793778228/1547297936",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 1288541478164336640,
+      "quoted_status_id_str": "1288541478164336640",
+      "quoted_status": {
+        "created_at": "Wed Jul 29 18:26:42 +0000 2020",
+        "id": 1288541478164336640,
+        "id_str": "1288541478164336640",
+        "text": "Der geplante Truppenabzug sei eine Belastung f\u00fcr das deutsch-amerikanische Verh\u00e4ltnis, so MP #S\u00f6der. \"Aus Sicht der\u2026 https://t.co/2PeO3PFNHL",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 90524645,
+          "id_str": "90524645",
+          "name": "BR24",
+          "screen_name": "BR24",
+          "location": "M\u00fcnchen, Bayern",
+          "url": "http://www.br24.de",
+          "description": "Dar\u00fcber spricht Bayern.",
+          "translator_type": "regular",
+          "protected": false,
+          "verified": true,
+          "followers_count": 52407,
+          "friends_count": 1328,
+          "listed_count": 947,
+          "favourites_count": 9081,
+          "statuses_count": 150785,
+          "created_at": "Tue Nov 17 00:37:00 +0000 2009",
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "profile_background_color": "FFFFFF",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/875689536306728960/ZjT-XMQ9_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/875689536306728960/ZjT-XMQ9_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/90524645/1586410483",
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+          "full_text": "Der geplante Truppenabzug sei eine Belastung f\u00fcr das deutsch-amerikanische Verh\u00e4ltnis, so MP #S\u00f6der. \"Aus Sicht der #USA und der #Nato war der Standort Deutschland optimal. Es gibt keinen milit\u00e4rischen Grund f\u00fcr den Abzug.\"\n\ud83d\udc49\ud83c\udffd https://t.co/IXYhVdWrpY https://t.co/iKAxZ5HGif",
+          "display_text_range": [
+            0,
+            250
+          ],
+          "entities": {
+            "hashtags": [
+              {
+                "text": "S\u00f6der",
+                "indices": [
+                  93,
+                  99
+                ]
+              },
+              {
+                "text": "USA",
+                "indices": [
+                  116,
+                  120
+                ]
+              },
+              {
+                "text": "Nato",
+                "indices": [
+                  129,
+                  134
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/IXYhVdWrpY",
+                "expanded_url": "https://www.br.de/nachrichten/bayern/markus-soeder-truppenabzug-belastet-deutsch-amerikanisches-verhaeltnis,S69SDBI",
+                "display_url": "br.de/nachrichten/ba\u2026",
+                "indices": [
+                  227,
+                  250
+                ]
+              }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+              {
+                "id": 1288540970070487040,
+                "id_str": "1288540970070487040",
+                "indices": [
+                  251,
+                  274
+                ],
+                "additional_media_info": {
+                  "monetizable": false
+                },
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1288540970070487040/pu/img/v1LF20yXfEf_Aifq.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1288540970070487040/pu/img/v1LF20yXfEf_Aifq.jpg",
+                "url": "https://t.co/iKAxZ5HGif",
+                "display_url": "pic.twitter.com/iKAxZ5HGif",
+                "expanded_url": "https://twitter.com/BR24/status/1288541478164336640/video/1",
+                "type": "video",
+                "video_info": {
+                  "aspect_ratio": [
+                    16,
+                    9
+                  ],
+                  "duration_millis": 37280,
+                  "variants": [
+                    {
+                      "content_type": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/ext_tw_video/1288540970070487040/pu/pl/X_oy7nib4-rx825E.m3u8?tag=10"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/1288540970070487040/pu/vid/640x360/bCTD2dKoP-bT54Kg.mp4?tag=10"
+                    },
+                    {
+                      "bitrate": 256000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/1288540970070487040/pu/vid/480x270/tn2Dt-n94cZZX-d_.mp4?tag=10"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/1288540970070487040/pu/vid/1280x720/rTKjEuKe0hC4ift7.mp4?tag=10"
+                    }
+                  ]
+                },
+                "sizes": {
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "extended_entities": {
+            "media": [
+              {
+                "id": 1288540970070487040,
+                "id_str": "1288540970070487040",
+                "indices": [
+                  251,
+                  274
+                ],
+                "additional_media_info": {
+                  "monetizable": false
+                },
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1288540970070487040/pu/img/v1LF20yXfEf_Aifq.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1288540970070487040/pu/img/v1LF20yXfEf_Aifq.jpg",
+                "url": "https://t.co/iKAxZ5HGif",
+                "display_url": "pic.twitter.com/iKAxZ5HGif",
+                "expanded_url": "https://twitter.com/BR24/status/1288541478164336640/video/1",
+                "type": "video",
+                "video_info": {
+                  "aspect_ratio": [
+                    16,
+                    9
+                  ],
+                  "duration_millis": 37280,
+                  "variants": [
+                    {
+                      "content_type": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/ext_tw_video/1288540970070487040/pu/pl/X_oy7nib4-rx825E.m3u8?tag=10"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/1288540970070487040/pu/vid/640x360/bCTD2dKoP-bT54Kg.mp4?tag=10"
+                    },
+                    {
+                      "bitrate": 256000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/1288540970070487040/pu/vid/480x270/tn2Dt-n94cZZX-d_.mp4?tag=10"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/ext_tw_video/1288540970070487040/pu/vid/1280x720/rTKjEuKe0hC4ift7.mp4?tag=10"
+                    }
+                  ]
+                },
+                "sizes": {
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 1280,
+                    "h": 720,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "quote_count": 6,
+        "reply_count": 15,
+        "retweet_count": 9,
+        "favorite_count": 45,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "S\u00f6der",
+              "indices": [
+                93,
+                99
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/2PeO3PFNHL",
+              "expanded_url": "https://twitter.com/i/web/status/1288541478164336640",
+              "display_url": "twitter.com/i/web/status/1\u2026",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+      },
+      "quoted_status_permalink": {
+        "url": "https://t.co/7uVo9B6gp3",
+        "expanded": "https://twitter.com/br24/status/1288541478164336640",
+        "display": "twitter.com/br24/status/12\u2026"
+      },
+      "is_quote_status": true,
+      "extended_tweet": {
+        "full_text": "Wir sind wirklich von unserem langj\u00e4hrigen Partner und Freund entt\u00e4uscht. Jetzt warten wir aber ab, ob und wie schnell die Pl\u00e4ne tats\u00e4chlich umgesetzt werden. Dann helfen wir den betroffenen Kommunen. Vor allem die Bundeswehr sollte einspringen. https://t.co/7uVo9B6gp3",
+        "display_text_range": [
+          0,
+          245
+        ],
+        "entities": {
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "https://t.co/7uVo9B6gp3",
+              "expanded_url": "https://twitter.com/br24/status/1288541478164336640",
+              "display_url": "twitter.com/br24/status/12\u2026",
+              "indices": [
+                246,
+                269
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        }
+      },
+      "quote_count": 9,
+      "reply_count": 154,
+      "retweet_count": 26,
+      "favorite_count": 316,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/0phgu73qZU",
+            "expanded_url": "https://twitter.com/i/web/status/1288813957436903424",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "de"
+    },
+    "quoted_status_id": 1288541478164336640,
+    "quoted_status_id_str": "1288541478164336640",
+    "quoted_status": {
+      "created_at": "Wed Jul 29 18:26:42 +0000 2020",
+      "id": 1288541478164336640,
+      "id_str": "1288541478164336640",
+      "text": "Der geplante Truppenabzug sei eine Belastung f\u00fcr das deutsch-amerikanische Verh\u00e4ltnis, so MP #S\u00f6der. \"Aus Sicht der\u2026 https://t.co/2PeO3PFNHL",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": true,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 90524645,
+        "id_str": "90524645",
+        "name": "BR24",
+        "screen_name": "BR24",
+        "location": "M\u00fcnchen, Bayern",
+        "url": "http://www.br24.de",
+        "description": "Dar\u00fcber spricht Bayern.",
+        "translator_type": "regular",
+        "protected": false,
+        "verified": true,
+        "followers_count": 52407,
+        "friends_count": 1328,
+        "listed_count": 947,
+        "favourites_count": 9081,
+        "statuses_count": 150785,
+        "created_at": "Tue Nov 17 00:37:00 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/875689536306728960/ZjT-XMQ9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875689536306728960/ZjT-XMQ9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/90524645/1586410483",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "extended_tweet": {
+        "full_text": "Der geplante Truppenabzug sei eine Belastung f\u00fcr das deutsch-amerikanische Verh\u00e4ltnis, so MP #S\u00f6der. \"Aus Sicht der #USA und der #Nato war der Standort Deutschland optimal. Es gibt keinen milit\u00e4rischen Grund f\u00fcr den Abzug.\"\n\ud83d\udc49\ud83c\udffd https://t.co/IXYhVdWrpY https://t.co/iKAxZ5HGif",
+        "display_text_range": [
+          0,
+          250
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "S\u00f6der",
+              "indices": [
+                93,
+                99
+              ]
+            },
+            {
+              "text": "USA",
+              "indices": [
+                116,
+                120
+              ]
+            },
+            {
+              "text": "Nato",
+              "indices": [
+                129,
+                134
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/IXYhVdWrpY",
+              "expanded_url": "https://www.br.de/nachrichten/bayern/markus-soeder-truppenabzug-belastet-deutsch-amerikanisches-verhaeltnis,S69SDBI",
+              "display_url": "br.de/nachrichten/ba\u2026",
+              "indices": [
+                227,
+                250
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 1288540970070487040,
+              "id_str": "1288540970070487040",
+              "indices": [
+                251,
+                274
+              ],
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1288540970070487040/pu/img/v1LF20yXfEf_Aifq.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1288540970070487040/pu/img/v1LF20yXfEf_Aifq.jpg",
+              "url": "https://t.co/iKAxZ5HGif",
+              "display_url": "pic.twitter.com/iKAxZ5HGif",
+              "expanded_url": "https://twitter.com/BR24/status/1288541478164336640/video/1",
+              "type": "video",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 37280,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1288540970070487040/pu/pl/X_oy7nib4-rx825E.m3u8?tag=10"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1288540970070487040/pu/vid/640x360/bCTD2dKoP-bT54Kg.mp4?tag=10"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1288540970070487040/pu/vid/480x270/tn2Dt-n94cZZX-d_.mp4?tag=10"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1288540970070487040/pu/vid/1280x720/rTKjEuKe0hC4ift7.mp4?tag=10"
+                  }
+                ]
+              },
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 720,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1288540970070487040,
+              "id_str": "1288540970070487040",
+              "indices": [
+                251,
+                274
+              ],
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1288540970070487040/pu/img/v1LF20yXfEf_Aifq.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1288540970070487040/pu/img/v1LF20yXfEf_Aifq.jpg",
+              "url": "https://t.co/iKAxZ5HGif",
+              "display_url": "pic.twitter.com/iKAxZ5HGif",
+              "expanded_url": "https://twitter.com/BR24/status/1288541478164336640/video/1",
+              "type": "video",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 37280,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1288540970070487040/pu/pl/X_oy7nib4-rx825E.m3u8?tag=10"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1288540970070487040/pu/vid/640x360/bCTD2dKoP-bT54Kg.mp4?tag=10"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1288540970070487040/pu/vid/480x270/tn2Dt-n94cZZX-d_.mp4?tag=10"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1288540970070487040/pu/vid/1280x720/rTKjEuKe0hC4ift7.mp4?tag=10"
+                  }
+                ]
+              },
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 720,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "quote_count": 6,
+      "reply_count": 15,
+      "retweet_count": 9,
+      "favorite_count": 45,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "S\u00f6der",
+            "indices": [
+              93,
+              99
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2PeO3PFNHL",
+            "expanded_url": "https://twitter.com/i/web/status/1288541478164336640",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "de"
+    },
+    "quoted_status_permalink": {
+      "url": "https://t.co/7uVo9B6gp3",
+      "expanded": "https://twitter.com/br24/status/1288541478164336640",
+      "display": "twitter.com/br24/status/12\u2026"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "Markus_Soeder",
+          "name": "Markus S\u00f6der",
+          "id": 793778228,
+          "id_str": "793778228",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1596143169885"
+  }
+]
