@@ -28,9 +28,25 @@ class listener(StreamListener):
             tweet = json.loads(data)
             with open('test_data.json', 'a') as my_file:
                 json.dump(tweet, my_file)
+                print(data)
+
         except BaseException:
             print('Error')
             pass
+
+    def on_status(self, status):
+        print
+        status.text
+        if status.coordinates:
+            print
+            'coords:', status.coordinates
+        if status.place:
+            print
+            'place:', status.place.full_name
+
+        return True
+
+    on_event = on_status
 
     def on_error(self, status):
         print(status)
@@ -45,4 +61,4 @@ if __name__ == '__main__':
     auth = OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret)
     stream = Stream(auth, json_listener)
-    stream.filter(track=['#COVID-19', '#USA'])
+    stream.filter(track=['#COVID-19', '#USA'], locations=[-125.3, 24.8, -63.7, 49.1])
