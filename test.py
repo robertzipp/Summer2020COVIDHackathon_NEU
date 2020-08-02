@@ -26,35 +26,37 @@ class listener(StreamListener):
     def on_data(self, data):
         try:
             tweet = json.loads(data)
+            # if tweet.get('place') and tweet.get('place').get('country') and tweet['place']['country'] == "United States":
+            if 'covid' in tweet.get('text').lower() or 'coronavirus' in tweet.get('text').lower():
+                convertedTweet = {}
+                convertedTweet['created_at'] = tweet['created_at']
+                convertedTweet['text'] = tweet['text']
+                convertedTweet['user'] = {}
+                convertedTweet['user']['location'] = tweet['user']['location']
+                convertedTweet['geo'] = tweet['geo']
+                convertedTweet['coordinates'] = tweet['coordinates']
+                if tweet.get('place'):
+                    convertedTweet['place'] = {}
+                    convertedTweet['place']['place_type'] = tweet['place']['place_type']
+                    convertedTweet['place']['name'] = tweet['place']['name']
+                    convertedTweet['place']['full_name'] = tweet['place']['full_name']
+                    convertedTweet['place']['country'] = tweet['place']['country']
+                convertedTweet['reply_count'] = tweet['reply_count']
+                convertedTweet['retweet_count'] = tweet['retweet_count']
+                hasttagArray = []
+                if tweet.get('entities'):
+                    if tweet['entities'].get('hashtags'):
+                        for item in tweet['entities']['hashtags']:
+                            hasttagArray.append(item['text'])
+                convertedTweet['hashtags'] = hasttagArray
 
-            convertedTweet = {}
-            convertedTweet['created_at'] = tweet['created_at']
-            convertedTweet['text'] = tweet['text']
-            convertedTweet['user'] = {}
-            convertedTweet['user']['location'] = tweet['user']['location']
-            convertedTweet['geo'] = tweet['geo']
-            convertedTweet['coordinates'] = tweet['coordinates']
-            if tweet.get('place'):
-                convertedTweet['place'] = {}
-                convertedTweet['place']['place_type'] = tweet['place']['place_type']
-                convertedTweet['place']['name'] = tweet['place']['name']
-                convertedTweet['place']['full_name'] = tweet['place']['full_name']
-                convertedTweet['place']['country'] = tweet['place']['country']
-            convertedTweet['reply_count'] = tweet['reply_count']
-            convertedTweet['retweet_count'] = tweet['retweet_count']
-            hasttagArray = []
-            if tweet.get('entities'):
-                if tweet['entities'].get('hashtags'):
-                    for item in tweet['entities']['hashtags']:
-                        hasttagArray.append(item['text'])
-            convertedTweet['hashtags'] = hasttagArray
-
-            with open('test_data.json', 'a') as my_file:
-                json.dump(convertedTweet, my_file, indent=4)
-                # print("data:")
-                # print(data)
-                print("convertedTweet:")
-                print(json.dumps(convertedTweet))
+                with open('covid_geo_tag.json', 'a') as my_file:
+                    json.dump(convertedTweet, my_file, indent=4)
+                    # print("data:")
+                    # print(data)
+                    print("convertedTweet:")
+                    print(json.dumps(convertedTweet))
+            # print(json.dumps(tweet))
 
         except BaseException:
             print('Error')
@@ -82,9 +84,12 @@ my_listener = listener()
 
 if __name__ == '__main__':
     # Handle Twitter authetification and the connection to Twitter Streaming API
+    # track = ['#covid19','#covid2019','#coronavirususa','#coronaapocolypse','#coronaday','#coronavirusu','#covid2019pt','#COVID19PT','#codvid_19','#codvid19','corona','corona vairus','#covid','#coronavirusoutbreak','#coronaviruspandemic','#coronavirusupdates','#covid_19']
+    location = [-125.3, 24.8, -63.7, 49.1]
+
     l = StdOutListener()
     json_listener = listener()
     auth = OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret)
-    stream = Stream(auth, json_listener)
-    stream.filter(track=['#COVID-19', '#USA'], locations=[-125.3, 24.8, -63.7, 49.1])
+    stream = Stream(auth, json_listener, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
+    stream.filter(locations=location, filter_level="low")
