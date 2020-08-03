@@ -1,4 +1,5 @@
 import json
+from datetime import datetime
 
 from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
@@ -9,6 +10,8 @@ access_token = "488650850-SdUNecgQyDGo7n5Rl85hlFKb51znw6fQZD8LH1nV"
 access_token_secret = "wyShJScbtuDjfAeKQ6MCOufuEEhvxPYGPeLBGs6olRlbk"
 consumer_key = "YV34hSKe6wXoKp3qSekqtGtMR"
 consumer_secret = "QIbpHiRTmAAO2sfNsz49YeCz4a311QY8UY2yTpM75K8BEkELn3"
+
+file_name = int(datetime.utcnow().timestamp() * 1e3)
 
 
 # Create the class that will handle the tweet stream
@@ -41,6 +44,9 @@ class listener(StreamListener):
                     convertedTweet['place']['name'] = tweet['place']['name']
                     convertedTweet['place']['full_name'] = tweet['place']['full_name']
                     convertedTweet['place']['country'] = tweet['place']['country']
+                    convertedTweet['place']['bounding_box'] = {}
+                    convertedTweet['place']['bounding_box']["type"] = tweet['place']['bounding_box']["type"]
+                    convertedTweet['place']['bounding_box']["coordinates"] = ['place']['bounding_box']["coordinates"]
                 convertedTweet['reply_count'] = tweet['reply_count']
                 convertedTweet['retweet_count'] = tweet['retweet_count']
                 hasttagArray = []
@@ -50,10 +56,11 @@ class listener(StreamListener):
                             hasttagArray.append(item['text'])
                 convertedTweet['hashtags'] = hasttagArray
 
-                with open('covid_geo_tag.json', 'a') as my_file:
+
+                with open(f'covid_geo_tag-{file_name}.json', 'a') as my_file:
                     json.dump(convertedTweet, my_file, indent=4)
-                    # print("data:")
-                    # print(data)
+                    print("data:")
+                    print(data)
                     print("convertedTweet:")
                     print(json.dumps(convertedTweet))
             # print(json.dumps(tweet))
