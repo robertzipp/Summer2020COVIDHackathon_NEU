@@ -1,5 +1,5 @@
 FROM python:3
-ADD test.py /
+ADD docker.py /
 RUN pip install pymongo
 RUN pip install tweepy
 RUN pip install dnspython
