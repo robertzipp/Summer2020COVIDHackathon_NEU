@@ -62,12 +62,10 @@ class listener(StreamListener):
                             hasttagArray.append(item['text'])
                 convertedTweet['hashtags'] = hasttagArray
 
-                with open(f'covid_geo_tag-{file_name}.json', 'a') as my_file:
-                    json.dump(convertedTweet, my_file, indent=4)
-                    print("data:")
-                    print(data)
-                    print("convertedTweet:")
-                    print(json.dumps(convertedTweet))
+                print("data:")
+                print(data)
+                print("convertedTweet:")
+                print(json.dumps(convertedTweet))
 
                 db.inventory.insert_one(convertedTweet)
             # print(json.dumps(tweet))
